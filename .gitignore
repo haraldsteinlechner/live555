@@ -1,1 +1,15 @@
 .DS_Store
+*.obj
+/BasicUsageEnvironment/BasicUsageEnvironment.mak
+/BasicUsageEnvironment/libBasicUsageEnvironment.lib
+/UsageEnvironment/UsageEnvironment.mak
+/UsageEnvironment/libUsageEnvironment.lib
+/groupsock/groupsock.mak
+/groupsock/libgroupsock.lib
+/liveMedia/libliveMedia.lib
+/liveMedia/liveMedia.mak
+/make.exe
+/mediaServer/mediaServer.mak
+/proxyServer/proxyServer.mak
+/testProgs/testProgs.mak
+*.exe
